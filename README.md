@@ -1,2 +1,2 @@
 # MINI-Project-Type-Information
-Learn Python 
+Learn Python It Work?
